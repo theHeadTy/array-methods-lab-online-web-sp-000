@@ -23,3 +23,4 @@ def using_size(array)
 end
 
 using_include(["wow", "I", "am", "really", "learning", "arrays!"], 'wow')
+using_include('Tardis')
