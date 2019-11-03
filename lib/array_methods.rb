@@ -22,4 +22,4 @@ def using_size(array)
   array.size
 end
 
-using_include(["wow", "I", "am", "really", "learning", "arrays!"], 'wow', 'Tardis')
+using_include(["wow", "I", "am", "really", "learning", "arrays!"], 'wow')
